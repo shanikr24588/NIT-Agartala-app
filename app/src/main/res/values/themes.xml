@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.NITA" parent="android:Theme.Material.Light.NoActionBar">
+
+        <item name="android:windowLightStatusBar">true</item>
+
+    </style>
+
+    <style name="LightTheme" parent="Theme.NITA">
+        <!-- Set the surface color -->
+        <item name="colorSurface">@color/lightSurfaceColor</item>
+
+    </style>
+</resources>

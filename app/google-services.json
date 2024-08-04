@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "419818483810",
+    "project_id": "nit-a-f0e61",
+    "storage_bucket": "nit-a-f0e61.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:419818483810:android:984ea738d784089a78e13b",
+        "android_client_info": {
+          "package_name": "com.nita.nit_a"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXOTQRpplSor9UcfvSwz2uznHKpeKogng"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
