@@ -5,15 +5,15 @@ plugins {
 }
 
 android {
-    namespace = "com.nita.nit_a"
+    namespace = "com.shani.nita"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.nita.nit_a"
-        minSdk = 28
+        applicationId = "com.shani.nita"
+        minSdk = 24
         targetSdk = 34
-        versionCode = 1
-        versionName = "1.0"
+        versionCode = 15
+        versionName = "1.5"
 
         testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
         vectorDrawables {
@@ -85,18 +85,14 @@ dependencies {
     implementation ("com.google.accompanist:accompanist-pager-indicators:0.32.0")
     implementation("com.pspdfkit:pspdfkit:8.0.0")
     implementation("io.coil-kt:coil-compose:2.6.0")
-
-
     implementation("com.google.accompanist:accompanist-swiperefresh:0.30.0")
-
-
-
-
-        // Replace 'latest-version' with the actual latest version number
     implementation("io.github.afreakyelf:Pdf-Viewer:2.1.1")
-
-
     implementation ("androidx.lifecycle:lifecycle-viewmodel-compose:2.8.4")
+    implementation("com.google.android.play:app-update:2.1.0")
+    implementation("com.google.android.play:app-update-ktx:2.1.0")
+    implementation ("org.jetbrains.kotlinx:kotlinx-coroutines-core:1.8.1")
+    implementation ("org.jetbrains.kotlinx:kotlinx-coroutines-android:1.8.1")
+
 
 
 

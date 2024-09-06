@@ -11,8 +11,16 @@
     <color name="lightSurfaceColor">#FFFFFF</color>
     <color name="Orange">#ff8533</color>
     <color name="Blue1">#0000cc</color>
-    <color name ="violetsurface">#e066ff</color>
-    <color name ="surfaceColor">#4d94ff</color>
-    <color name ="scaffoldColor">#ff1a75</color>
-    <color name = "violet">#cc00cc</color>
+    <color name ="violetsurface">#ffe6e6</color>
+    <color name ="surfaceColor">#e1d5c9</color>
+    <color name ="scaffoldColor">#022a72</color>
+    <color name ="violet">#cc00cc</color>
+    <color name ="IconColor">#022a72</color>
+    <color name = "SplashColor">#ffe6cc</color>
+    <color name="NavDrawer">#1c0b2f</color>
+    <color name="Profile">#0a8eb7</color>
+    <color name="card1">#ff9a62</color>
+    <color name="card2">#92daf1</color>
+    <color name="card3">#cebf9d</color>
+    <color name="Home">#af9f85</color>
 </resources>
